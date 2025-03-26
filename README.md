@@ -21,7 +21,7 @@ AIpdf is a full-stack application that allows users to upload PDFs and ask quest
 ### 2. Set up the backend
 ```sh
 cd backend
-pip install fastapi uvicorn llama-index langchain
+pip install fastapi uvicorn llama-index langchain pymupdf pydantic python-dotenv numpy pandas
 ```
 Create a **.env** file in the `backend/` directory with your credentials:
 ```

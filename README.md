@@ -5,13 +5,13 @@ AIpdf is a full-stack application that allows users to upload PDFs and ask quest
 ## Features
 - Upload PDFs for processing
 - Ask questions and get context-aware answers
-- FastAPI backend with **Hugging Face embeddings** & **Gemini LLM**
+- FastAPI backend with **Gemini LLM via llama-index**
 - React.js frontend for user interaction
 - Uses **SQLite/PostgreSQL** for metadata storage
 - Supports local and cloud PDF storage
 
 ## Tech Stack
-- **Backend:** FastAPI, llama-index, LangChain, Hugging Face, Gemini LLM
+- **Backend:** FastAPI, llama-index, LangChain, Gemini LLM
 - **Frontend:** React.js, TailwindCSS
 - **Database:** SQLite/PostgreSQL
 - **Storage:** Local filesystem / Cloud

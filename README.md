@@ -57,8 +57,6 @@ npm start
 - **Routes not showing in FastAPI docs?** Ensure you’re running `uvicorn` on port `8003`
 - **LLM not responding?** Check if your `GEMINI_API_KEY` is correct and valid
 
-## Contributing
-Pull requests are welcome. Open an issue if you find a bug or have feature requests.
 
 ## License
 MIT License © 2025 AIpdf

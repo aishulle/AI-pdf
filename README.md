@@ -53,11 +53,8 @@ npm start
 | GET    | /documents     | List uploaded PDFs        |
 | DELETE | /delete        | Delete an uploaded PDF    |
 
-## Troubleshooting
-- **Routes not showing in FastAPI docs?** Ensure you’re running `uvicorn` on port `8003`
-- **LLM not responding?** Check if your `GEMINI_API_KEY` is correct and valid
 
 
-## License
-MIT License © 2025 AIpdf
+
+
 

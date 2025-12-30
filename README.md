@@ -1,14 +1,13 @@
 # AIpdf - PDF Question Answering System
 
-AIpdf is a full-stack application that allows users to upload PDFs and ask questions about the content. The system processes the PDFs, extracts text, and leverages **LLMs (Gemini via llama-index)** to provide intelligent responses. The backend is built with **FastAPI**, while the frontend uses **React.js** for a seamless user experience.
-
+AIpdf is a full-stack application that allows users to upload PDFs and ask questions about the content. The system processes the PDFs, extracts text, and leverages **LLMs (Gemini via llama-index)** to provide intelligent responses. The backend is built with **FastAPI**, while the frontend uses **React.js** .
 ## Features
 - Upload PDFs for processing
 - Ask questions and get context-aware answers
 - FastAPI backend with **Gemini LLM via llama-index**
 - React.js frontend for user interaction
 - Uses **SQLite/PostgreSQL** for metadata storage
-- Supports local and cloud PDF storage
+- Supports local storage
 
 ## Tech Stack
 - **Backend:** FastAPI, llama-index, LangChain, Gemini LLM

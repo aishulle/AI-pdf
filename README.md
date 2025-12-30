@@ -13,8 +13,8 @@ AIpdf is a full-stack application that allows users to upload PDFs and ask quest
 ## Tech Stack
 - **Backend:** FastAPI, llama-index, LangChain, Gemini LLM
 - **Frontend:** React.js, TailwindCSS
-- **Database:** SQLite/PostgreSQL
-- **Storage:** Local filesystem / Cloud
+- **Database:** SQLite
+- **Storage:** Local filesystem 
 
 ## Installation & Setup
 
